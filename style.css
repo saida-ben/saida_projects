@@ -1,0 +1,27 @@
+/* Style CSS pour les sections */
+section {
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    margin: 1%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f0f0f0; /* Couleur d'arrière-plan */
+    padding: 20px; /* Espace intérieur autour du contenu */
+    border: 1px solid #b44c4c; /* Bordure autour de la boîte */
+    margin: 20px; /* Marge extérieure autour de la boîte */
+    box-shadow: 0 0 10px rgba(23, 78, 35, 0.1); /* Ombre de boîte */
+}
+
+header{
+    color:#b44c4c;
+}
+
+section ul {
+    display: inline-block;
+  margin-right: 20px;
+    }
+
+ 
